@@ -23,7 +23,7 @@ Não é díficil criar algo na IA desde que saiba o quer que seja criado e tamb�
 
 ### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
+- [E-BOOK](https://github.com/GermanoRoberto/lab-natty-or-not/blob/528a790e0190626c324256c217add06520dd5be0/exemplos/Explorando%20a%20IA%20Generativa.pdf)
 - [Música](https://suno.com/song/2defdd3f-8ea0-4969-ab9e-0c5272ac5423)
 
 ## Links Interessantes
