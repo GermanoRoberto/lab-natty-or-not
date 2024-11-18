@@ -1,48 +1,30 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
 
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Explorando a IA Generativa
 
 ## 📒 Descrição
-Breve descrição do seu projeto
-
+Com o intuito de aprender a utilizar melhor as IAs, desenvolvi esse projeto rapido para testar o funcionamento e a capacidade de ser criado um texto mais natural possível sobre o assunto proposto.
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ - Copilot
+ - Microsoft Office
+ - Suno
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Foi solicitado que em primeiro lugar o Copilot escrevesse um e-book curto sobre as funcionalidades e as vantagens de se utilizar a IA Generativa. Após o texto inicial eu pedi para que ela pudesse deixar mais detalhado e pedi também algumas imagens, chegando a  ideia proposta. Por curiosidade pedi a ela que pudesse escrever uma música como se fosse um heavy metal sobre ela mesma, utilizei uma outra IA generativa focada em música. 
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
+Dentros das atuais capacidades da IA Generativa, as criações foram extremamente efetivas e podem sim se passar por algo feito por uma pessoa. 
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Não é díficil criar algo na IA desde que saiba o quer que seja criado e também participar do desenvolvimento dela por meio do machine learning. Porém podemos levantar algumas questões como a indvidualidade, que só é adquirida, e a emoção em compartilhar um texto feito por você ou criar uma música por quem realmente vive disso. 
+
 
 ### Exemplos e Insigths
 
 - [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- [Música](https://suno.com/song/2defdd3f-8ea0-4969-ab9e-0c5272ac5423)
 
 ## Links Interessantes
 
