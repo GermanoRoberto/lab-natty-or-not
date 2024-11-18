@@ -3,22 +3,19 @@
 # Explorando a IA Generativa
 
 ## 📒 Descrição
-Com o intuito de aprender a utilizar melhor as IAs, desenvolvi esse projeto rapido para testar o funcionamento e a capacidade de ser criado um texto mais natural possível sobre o assunto proposto.
+Este projeto tem como objetivo explorar a utilização de Inteligências Artificiais (IAs) para criar textos mais naturais e verificar suas capacidades. Ao longo do projeto, foram utilizadas diversas tecnologias de IA para desenvolver um e-book detalhado sobre as funcionalidades e vantagens da IA Generativa e após desenvolver uma letra de música.
 ## 🤖 Tecnologias Utilizadas
- - Copilot
- - Microsoft Office
- - Suno
+ - Copilot: Para a geração dos textos, imagens e estruturação do e-book
+ - Microsoft Office: Para a edição e formatação do conteúdo.
+ - Suno: Para a complementação com outras formas de IA generativa.
 
 ## 🧐 Processo de Criação
-Foi solicitado que em primeiro lugar o Copilot escrevesse um e-book curto sobre as funcionalidades e as vantagens de se utilizar a IA Generativa. Após o texto inicial eu pedi para que ela pudesse deixar mais detalhado e pedi também algumas imagens, chegando a  ideia proposta. Por curiosidade pedi a ela que pudesse escrever uma música como se fosse um heavy metal sobre ela mesma, utilizei uma outra IA generativa focada em música. 
-
+Inicialmente, o Copilot foi utilizado para escrever um e-book curto sobre as funcionalidades e vantagens da IA Generativa. Posteriormente, o texto foi ampliado e detalhado, com a adição de imagens ilustrativas. Por curiosidade, também foi solicitado que o Copilot escrevesse uma música no estilo heavy metal sobre si mesmo, utilizando outra IA generativa focada em música para compor a melodia do estilo proposto.
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
-Dentros das atuais capacidades da IA Generativa, as criações foram extremamente efetivas e podem sim se passar por algo feito por uma pessoa. 
+Os resultados foram extremamente eficazes, demonstrando que a IA Generativa pode criar conteúdos que parecem ter sido feitos por humanos. O e-book final apresenta uma visão objetiva das capacidades e vantagens da IA Generativa, acompanhado de ilustrações relevantes. A parte musical é surpreendente o quanto pode ser criativa desde que saiba bem os estilos de música que deseja.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-Não é díficil criar algo na IA desde que saiba o quer que seja criado e também participar do desenvolvimento dela por meio do machine learning. Porém podemos levantar algumas questões como a indvidualidade, que só é adquirida, e a emoção em compartilhar um texto feito por você ou criar uma música por quem realmente vive disso. 
+Criar algo 'natty' com IA não é difícil, desde que se saiba o que se deseja e se participe do desenvolvimento através do machine learning. No entanto, a individualidade e a emoção de compartilhar um texto ou uma música feita por alguém que vive disso são questões importantes a considerar de uma forma mais ampla. 
 
 
 ### Exemplos e Insigths
